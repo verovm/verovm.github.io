@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Vero Virtual Machine
 
-You can use the [editor on GitHub](https://github.com/verovm/verovm.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to the Vero Virtual Machine page. We are a group of academics and students who are interested in the programmability of blockchains. In particular, we would like to have a deeper understanding of the efficiency and reliability of executing Smart Contracts on the block chain. 
 
-### Markdown
+We will report about our findings throughout the project on this webpage. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The project is partially funded and supported by [Fantom Foundation](https://phantom.foundation), Yonsei University and The University of Sydney.
 
-```markdown
-Syntax highlighted code block
+### Current Team
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/verovm/verovm.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Kirk Baird
+- [A/Prof Bernd Burgstaller](https://elc.yonsei.ac.kr/people.htm)
+- Xiowen Hu
+- Seongho Jeong
+- Yeonsoo Kim
+- [A/Prof Bernhard Scholz](http://b-scholz.github.io)
+- Dr Xi Wu
