@@ -5,7 +5,7 @@ Welcome to the Vero Virtual Machine page. We are a group of academics and studen
 
 We will report about our findings throughout the project on this webpage. 
 
-The project is partially funded and supported by [Fantom Foundation](https://phantom.foundation), Yonsei University and The University of Sydney.
+The project is partially funded and supported by [Fantom Foundation](https://fantom.foundation), Yonsei University and The University of Sydney.
 
 ### Current Team
 
