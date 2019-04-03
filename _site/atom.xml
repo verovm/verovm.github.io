@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Vero Virtual Machine</title>
+ <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
+ <link href="http://0.0.0.0:4000/"/>
+ <updated>2019-04-03T12:09:48+09:00</updated>
+ <id>http://0.0.0.0:4000</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+
+</feed>
