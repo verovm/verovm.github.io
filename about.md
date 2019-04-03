@@ -3,9 +3,6 @@ layout: page
 title:
 ---
 
-# Vero Virtual Machine
-
-
 Welcome to the Vero Virtual Machine page. We are a group of academics and students who are interested in the programmability of blockchains. In particular, we would like to have a deeper understanding of the efficiency and reliability of executing Smart Contracts on the block chain. 
 
 We will report about our findings throughout the project on this webpage. 

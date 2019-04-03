@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://0.0.0.0:4000</loc>
-    <lastmod>2019-04-03T12:09:48+09:00</lastmod>
+    <loc>http://localhost:4000</loc>
+    <lastmod>2019-04-03T14:10:16+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   
   <url>
-    <loc>http://0.0.0.0:4000/404/</loc>
+    <loc>http://localhost:4000/404/</loc>
     
       <lastmod>2019-04-03</lastmod>
     
@@ -22,7 +22,7 @@
   </url>
   
   <url>
-    <loc>http://0.0.0.0:4000/about/</loc>
+    <loc>http://localhost:4000/about/</loc>
     
       <lastmod>2019-04-03</lastmod>
     
@@ -35,7 +35,7 @@
   </url>
   
   <url>
-    <loc>http://0.0.0.0:4000/archive/</loc>
+    <loc>http://localhost:4000/archive/</loc>
     
       <lastmod>2019-04-03</lastmod>
     
@@ -48,7 +48,7 @@
   </url>
   
   <url>
-    <loc>http://0.0.0.0:4000/</loc>
+    <loc>http://localhost:4000/</loc>
     
       <lastmod>2019-04-03</lastmod>
     
