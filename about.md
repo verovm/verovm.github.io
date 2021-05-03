@@ -14,7 +14,7 @@ The project is partially funded and supported by [Fantom Foundation](https://fan
 - [A/Prof Bernd Burgstaller](https://elc.yonsei.ac.kr/people.htm)
 - Xiowen Hu
 - Seongho Jeong
-- Yeonsoo Kim
 - Dr Kamil Jezek
-- [A/Prof Bernhard Scholz](http://b-scholz.github.io)
+- Yeonsoo Kim
+- [Prof Bernhard Scholz](http://b-scholz.github.io)
 

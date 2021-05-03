@@ -14,5 +14,5 @@ The project is partially funded and supported by [Fantom Foundation](https://fan
 - Seongho Jeong
 - Dr Kamil Jezek
 - Yeonsoo Kim
-- [A/Prof Bernhard Scholz](http://b-scholz.github.io)
+- [Prof Bernhard Scholz](http://b-scholz.github.io)
 
